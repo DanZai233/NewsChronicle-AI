@@ -1,0 +1,5 @@
+{
+  "name": "NewsChronicle AI",
+  "description": "Transform any news article URL into a detailed, interactive event timeline and sentiment analysis chart using Gemini AI.",
+  "requestFramePermissions": []
+}
